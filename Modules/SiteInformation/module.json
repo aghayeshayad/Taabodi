@@ -1,0 +1,13 @@
+{
+    "name": "SiteInformation",
+    "alias": "siteinformation",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\SiteInformation\\Providers\\SiteInformationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
